@@ -63,5 +63,7 @@ public class cycleInLinkedList2 {
 //            return slow;
 //        }
 //    }
+//    ** it is not necessary that fast travels always 2x times then slow it can even travel more then 2x
+//    for example 3x or 4x it is always going to catch the cycle.**
 }
 
